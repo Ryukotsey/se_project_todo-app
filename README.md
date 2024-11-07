@@ -4,7 +4,7 @@ A simple to use straight-forward todo list
 
 ## Functionality
 
-a todo list with the ability to add custom cards as well as a due date.
+A todo list with the ability to add custom cards as well as a due date.
 
 ## Technology
 
@@ -18,4 +18,4 @@ a todo list with the ability to add custom cards as well as a due date.
 
 This project is deployed on GitHub Pages:
 
-- Add Link Here
+[Link to Site](https://ryukotsey.github.io/se_project_todo-app/)
