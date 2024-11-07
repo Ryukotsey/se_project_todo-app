@@ -1,17 +1,21 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple to use straight-forward todo list
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+a todo list with the ability to add custom cards as well as a due date.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- Semantic HTML5
+- Flexbox
+- JavaScript
+- Functional Forms
+- Flat BEM file structure
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- Add Link Here
